@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DEKORATOR_LG</id>
+    <version>1.0.0</version>
+    <authors>DEKORATOR_LG</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PC\source\repos\DEKORATOR_LG\DEKORATOR_LG\bin\Debug\net5.0\DEKORATOR_LG.runtimeconfig.json" target="lib\net5.0\DEKORATOR_LG.runtimeconfig.json" />
+    <file src="C:\Users\PC\source\repos\DEKORATOR_LG\DEKORATOR_LG\bin\Debug\net5.0\DEKORATOR_LG.dll" target="lib\net5.0\DEKORATOR_LG.dll" />
+  </files>
+</package>
